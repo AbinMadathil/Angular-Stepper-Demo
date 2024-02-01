@@ -1,0 +1,8 @@
+.Stepper-class{
+    display: grid;
+    place-items: center;
+}
+
+app-wizard{
+    margin-bottom:200px; 
+}
